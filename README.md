@@ -6,11 +6,11 @@
 
 <h2>About Me.</h2>
 <ul>
-<li>Currently, as an inspiring data analyst, I'm eager to apply my data skills to solve real life problems. Am I going to be a man with a hammer and see everthing like a nail? We will see!!!</li>
-<li>I Graduated with a bachelor degree in Statistics and obtained a Data Science Diploma from Concordia University data science bootcamp in December 2024.</li>
-<li>I'm proficient in SQL, Tableau, Python, pandas, numpy, matplotlib, seaborn, plotly express, and scikit-learn.</li>
-<li>I'm a well expreienced stock investor and I have been analyzing financial datas for a long time. Therefore, I had already analyzed data like a data analyst even before I was introduced to data analytics. In 2020, I not only had forsaw the market collaping, but also I was able to predict the recovery of the market and ended up profitting handsomely from it.</li>
-<!--<li>I will be doing data projects and financial data projects. Stay tuned, and you may find some very interesting investment ideas here.</li> -->
+<li>I'm a well experienced value investor, which means I would look for stock canadidates whose intrisic values is largely lower than the market value, so I can get it for pennies on the dollar. Since 2020, I have generated an accumulated of over 400k USD.</li>
+<li>My investing experiences had certainly paved the way for me to become a data analyst. During my investing experience, I have applied <b>excel</b> to analyze financial data such as financial statments. I was able to perform ratio analysis and build DFC models to calculate intrisic values. In another word, I was already thinking like a data analyst even before I became familiar to the concept of data analytics. </li>
+<li>I'm also a well trained data analyst. I have frequently applied <b>SQL, Tableau, Python</b> data skills to solve business problems while looking for ways to improve revenue and lowring the cost during my projects.</li>
+<li>If you are as passionate about data analytics as I am, please feel free to check out my data projects in the github repository section and tell me how I can improve. </li>
+
 </ul>
 <!-- 📫 How to reach me: ...--!>
 - 😄 Pronouns: He/Him
